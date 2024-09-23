@@ -1,5 +1,14 @@
 # Changelog
 
+## [8.6.2](https://github.com/Bekaboo/dropbar.nvim/compare/v8.6.1...v8.6.2) (2024-09-23)
+
+
+### Bug Fixes
+
+* **setup:** avoid setup twice when using lazy.nvim ([#181](https://github.com/Bekaboo/dropbar.nvim/issues/181)) ([b7b0cd2](https://github.com/Bekaboo/dropbar.nvim/commit/b7b0cd2670cfab298afc955f2531206218736766))
+* **setup:** dropbar attaches to wrong window ([6156e07](https://github.com/Bekaboo/dropbar.nvim/commit/6156e07759fd8c7cbf764414f583aa7e47470368))
+* **sources-path:** `get_symbols()` error caused by drive name on Windows ([#175](https://github.com/Bekaboo/dropbar.nvim/issues/175)) ([d26bf92](https://github.com/Bekaboo/dropbar.nvim/commit/d26bf92161cd70e049dc138b44ffa0246dbf7178))
+
 ## [8.6.1](https://github.com/Bekaboo/dropbar.nvim/compare/v8.6.0...v8.6.1) (2024-07-25)
 
 
